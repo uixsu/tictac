@@ -8,11 +8,11 @@ class Dashboard extends Component {
     return (
       <Container>
         <Row>
-          <Col className='text-center'>
-            <div>
+          <div className='col'>
+            <div className='d-flex justify-content-center'>
             <Game/>
             </div>
-          </Col>
+          </div>
         </Row>
 
         <br/>

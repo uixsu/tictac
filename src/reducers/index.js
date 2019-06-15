@@ -9,7 +9,7 @@ export const initialState = {
     null, null, null,
   ],
   session_id:null,
-  user_char:'l'
+  user_char:'X'
 };
 
 
