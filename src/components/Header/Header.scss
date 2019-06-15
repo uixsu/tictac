@@ -1,0 +1,16 @@
+$blue: #2aa7ff;
+
+a.head_link {
+  font-size: 16px;
+  text-decoration: none;
+  margin-right: 30px;
+
+}
+
+.to_right {
+  float: right;
+  margin-right: 1px;
+  @extend a.head_link;
+}
+
+
