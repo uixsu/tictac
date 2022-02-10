@@ -30,7 +30,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "node-sass": "^4.9.3",
+    "node-sass": "^7.0.0",
     "postcss": "^7.0.4",
     "postcss-loader": "^2.0.8",
     "postcss-scss": "^2.0.0",
